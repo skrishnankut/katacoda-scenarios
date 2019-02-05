@@ -1,4 +1,4 @@
-# Katacoda Hello World
+# Katacoda TechCom 2019 DXC Labs
 This is an example repository. Starting building your own scenario by editing the files in this directory. Create additional scenarios by adding additional directories to the top level folder.
 
 
