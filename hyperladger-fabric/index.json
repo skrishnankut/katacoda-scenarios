@@ -1,0 +1,28 @@
+{
+  "title": "HyperLadger Fabric",
+  "description": "",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Step 1 - Setup Envienment",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - Building Your First Network",
+        "text": "step2.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
